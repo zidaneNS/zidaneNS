@@ -20,6 +20,13 @@ I like learning many things about Web Development and now im on my way to learn 
 ### Eatme co
 This is my lately project. This project build while i learning Typescript so this is still far from perfect but i've planned to optimize and complete my project into the greater project. 🫶
 You can visit this at [Eatme Co](https://github.com/zidaneNS/Eatme-co_food-delivery)
+***
+<div style={display: flex; justify-content: space-between;}>
+<img src="https://github.com/zidaneNS/zidaneNS/blob/main/Screenshot%202024-12-07%20062658.png" height=250>
+<img src="https://github.com/zidaneNS/zidaneNS/blob/main/Screenshot%202024-12-07%20062719.png" height=250>
+<img src="https://github.com/zidaneNS/zidaneNS/blob/main/Screenshot%202024-12-07%20062804.png" height=250>
+<img src="https://github.com/zidaneNS/zidaneNS/blob/main/Screenshot%202024-12-07%20062823.png" height=250>
+</div>
 
 ### Expert System
 This is me and my friend's [@gadeeng](https://github.com/gadeeng) final project for AI course in my University. So this website implement Expert System to diagnose several stomach diseases 🩹🩹🩹
