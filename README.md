@@ -12,10 +12,12 @@ Some technologies i usually use is :
 * :atom: React
 * 💻 Express
 * 🍀MongoDB
-* 🐬 MySQL
+* 🐬MySQL
+* 🐘PostgreSQL
+* 🔺Laravel
+* ▫️NextJS
 
-I like learning many things about Web Development and now im on my way to learn Next.js hopefully i can mastered it as fast as i can 😄
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidaneNS&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![zidane's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidaneNS&show_icons=true&theme=transparent)
 
 ## Projects
