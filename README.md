@@ -16,6 +16,8 @@ Some technologies i usually use is :
 
 I like learning many things about Web Development and now im on my way to learn Next.js hopefully i can mastered it as fast as i can 😄
 
+![zidane's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidaneNS&show_icons=true&theme=transparent)
+
 ## Projects
 ### Eatme co
 This is my lately project. This project build while i learning Typescript so this is still far from perfect but i've planned to optimize and complete my project into the greater project. 🫶
