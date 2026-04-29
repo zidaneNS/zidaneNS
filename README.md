@@ -2,9 +2,6 @@
 Im Muhammad Zidane Nur Sya'bani, Mathematics Bachelor Degree student at Airlangga University. Im interested in Web Development and i already learn much about developing static even 
 dynamic websites using several programing language 🙌
 
-## Visit my service
-- [Click Here](https://wappindo.my.id)
-
 Here programing language i can use such as :
 * Typescript
 * Javascript
